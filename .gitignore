@@ -77,6 +77,5 @@ dmypy.json
 .pytype/
 cython_debug/
 .idea
-input/processed/
 output/
 models/
