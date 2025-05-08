@@ -79,3 +79,4 @@ cython_debug/
 .idea
 output/
 models/
+input/processed/
